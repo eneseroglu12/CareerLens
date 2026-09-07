@@ -1,0 +1,21 @@
+ÖRNEK İŞ İLANI — JUNIOR İŞ ANALİSTİ
+
+Ürün ve operasyon ekiplerini destekleyecek Junior İş Analisti arıyoruz.
+
+SORUMLULUKLAR
+- Paydaşlardan iş gereksinimlerini toplamak ve dokümante etmek.
+- Mevcut ve hedef iş süreçlerini haritalamak.
+- UAT planlama, test yürütme ve hata takibini desteklemek.
+- Operasyonel verileri analiz etmek ve karar vericiler için anlaşılır raporlar hazırlamak.
+- Ürün yöneticileri, yazılım geliştiriciler ve operasyon ekipleriyle birlikte çalışmak.
+
+GEREKSİNİMLER
+- MIS, İş Analitiği, Endüstri Mühendisliği veya ilgili bir alanda üniversite öğrencisi ya da yeni mezun olmak.
+- Güçlü analitik düşünme ve problem çözme becerilerine sahip olmak.
+- SQL ve Excel konusunda çalışma bilgisine sahip olmak.
+- Süreç modelleme ve yazılım testine aşina olmak.
+- Yazılı ve sözlü İngilizce iletişim becerisine sahip olmak.
+
+TERCİH EDİLEN NİTELİKLER
+- Power BI veya başka bir dashboard aracında deneyim.
+- Agile ürün geliştirme ve Jira konusunda deneyim veya aşinalık.

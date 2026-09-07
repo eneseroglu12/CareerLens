@@ -1,0 +1,36 @@
+MEHMET KAYA
+İstatistik 4. Sınıf Öğrencisi
+
+PROFESYONEL ÖZET
+Veri analizi, raporlama ve istatistiksel modelleme alanlarında kariyer hedefleyen bir öğrenciyim.
+Python ve SQL kullanarak veri temizleme, analiz ve görselleştirme projeleri gerçekleştirdim.
+
+EĞİTİM
+Yıldız Teknik Üniversitesi
+İstatistik – Lisans
+2022 – 2026 (Beklenen)
+GANO: 3.28 / 4.00
+
+DENEYİM
+Data Analytics Intern – Retail Insights
+Temmuz 2026 – Ağustos 2026
+- SQL kullanarak satış ve müşteri tablolarından veri çektim.
+- Python pandas ile veri temizleme ve keşifsel veri analizi yaptım.
+- Haftalık KPI raporlarını Excel ve Power BI ile hazırladım.
+- Kampanya sonuçlarını karşılaştırmak için temel istatistiksel analizler uyguladım.
+- Bulguları ekip toplantılarında kısa sunumlarla paylaştım.
+
+PROJELER
+Müşteri Kaybı Analizi
+- Python, pandas ve scikit-learn kullanarak churn tahmin modeli geliştirdim.
+- Model performansını accuracy, precision, recall ve F1-score ile değerlendirdim.
+
+E-Ticaret Satış Analizi
+- SQL ve Power BI ile ürün kategorileri ve dönemler bazında satış dashboard'u geliştirdim.
+
+BECERİLER
+Python, pandas, NumPy, SQL, Excel, Power BI, scikit-learn, İstatistik, Veri Görselleştirme
+
+DİLLER
+İngilizce – B2
+Türkçe – Ana Dil

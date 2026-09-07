@@ -1,0 +1,34 @@
+AYŞE DEMİR
+Yönetim Bilişim Sistemleri 4. Sınıf Öğrencisi
+
+PROFESYONEL ÖZET
+İş analizi, süreç iyileştirme ve yazılım projelerinde görev almaya odaklanan Yönetim Bilişim Sistemleri öğrencisiyim.
+İş gereksinimlerini analiz etme, kullanıcı ihtiyaçlarını dokümante etme ve teknik ekiplerle çalışma konularında deneyim kazandım.
+
+EĞİTİM
+Marmara Üniversitesi
+Yönetim Bilişim Sistemleri – Lisans
+2023 – 2027 (Beklenen)
+GANO: 3.41 / 4.00
+
+DENEYİM
+Business Analyst Intern – FinTech Solutions
+Haziran 2026 – Ağustos 2026
+- İş birimleriyle yapılan toplantılarda kullanıcı ihtiyaçlarının ve iş gereksinimlerinin çıkarılmasına destek oldum.
+- Fonksiyonel analiz dokümanları, user story ve acceptance criteria hazırladım.
+- UAT sürecinde test senaryoları hazırladım ve hata kayıtlarını takip ettim.
+- Jira üzerinde görev ve hata kayıtlarını güncelledim.
+- Mevcut ve hedef süreçler için süreç akışları hazırladım.
+- SQL sorguları ile test verilerini kontrol ettim.
+
+PROJELER
+Satış Performans Dashboard Projesi
+- Power BI ile satış, ürün ve bölge bazlı performans göstergeleri oluşturdum.
+- Excel ve SQL ile veri temizleme ve doğrulama çalışmaları yaptım.
+
+BECERİLER
+SQL, Microsoft Excel, Power BI, Jira, BPMN, UAT, Test Senaryosu Hazırlama, Gereksinim Analizi, Fonksiyonel Analiz
+
+DİLLER
+İngilizce – C1
+Türkçe – Ana Dil

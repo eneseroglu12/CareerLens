@@ -1,0 +1,34 @@
+SELİM ARSLAN
+Bilgisayar Mühendisliği 3. Sınıf Öğrencisi
+
+PROFESYONEL ÖZET
+Backend geliştirme ve web uygulamalarıyla ilgileniyorum.
+C#, .NET ve SQL kullanarak bireysel ve takım projeleri geliştirdim.
+
+EĞİTİM
+Kocaeli Üniversitesi
+Bilgisayar Mühendisliği – Lisans
+2024 – 2028 (Beklenen)
+
+DENEYİM
+Software Development Intern – NovaSoft
+Ağustos 2026
+- ASP.NET Core ile REST API geliştirme çalışmalarına destek oldum.
+- Entity Framework Core ile veri tabanı işlemleri gerçekleştirdim.
+- Git ve GitHub kullanarak takım geliştirme sürecine katıldım.
+- Mevcut uygulamalardaki hataların giderilmesine destek oldum.
+
+PROJELER
+Etkinlik Yönetim Sistemi
+- C#, ASP.NET Core ve PostgreSQL kullanarak etkinlik oluşturma ve kullanıcı yönetimi özellikleri geliştirdim.
+- JWT tabanlı kimlik doğrulama kullandım.
+
+Mobil Not Uygulaması
+- Flutter ve Firebase ile kişisel not uygulaması geliştirdim.
+
+BECERİLER
+C#, .NET, ASP.NET Core, SQL, PostgreSQL, Git, GitHub, REST API, Flutter, Firebase
+
+DİLLER
+İngilizce – B1
+Türkçe – Ana Dil

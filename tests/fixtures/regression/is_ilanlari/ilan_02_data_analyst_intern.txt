@@ -1,0 +1,23 @@
+DATA ANALYST INTERN
+Konum: İstanbul
+Çalışma Şekli: Hibrit
+
+ARANAN NİTELİKLER
+- İstatistik, Matematik, Endüstri Mühendisliği, Yönetim Bilişim Sistemleri, Bilgisayar Bilimleri veya ilgili alanlarda öğrenci olmak.
+- SQL ile veri sorgulama konusunda temel veya orta düzey bilgi sahibi olmak.
+- Python ile veri analizi yapabilmek.
+- pandas veya benzeri veri işleme kütüphanelerini kullanmış olmak.
+- Microsoft Excel ile veri analizi ve raporlama yapabilmek.
+- Analitik düşünme ve problem çözme becerilerine sahip olmak.
+- İngilizce dokümanları takip edebilecek seviyede İngilizce bilgisine sahip olmak.
+
+TERCİH EDİLEN NİTELİKLER
+- Power BI veya Tableau deneyimi.
+- Temel makine öğrenmesi bilgisi.
+- İstatistiksel hipotez testleri veya deney analizi konusunda bilgi sahibi olmak.
+
+GÖREV VE SORUMLULUKLAR
+- Veri kaynaklarından gerekli verileri çekmek.
+- Veri temizleme ve kalite kontrolleri gerçekleştirmek.
+- KPI raporları ve dashboard'lar hazırlamak.
+- Analiz sonuçlarını anlaşılır şekilde raporlamak.

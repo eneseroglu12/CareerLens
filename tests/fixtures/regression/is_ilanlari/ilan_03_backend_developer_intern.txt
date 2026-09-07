@@ -1,0 +1,25 @@
+BACKEND DEVELOPER INTERN
+Konum: İstanbul / Uzaktan
+Çalışma Şekli: Staj
+
+ARANAN NİTELİKLER
+- Bilgisayar Mühendisliği, Yazılım Mühendisliği veya ilgili bir teknik bölümde öğrenci olmak.
+- C# ve .NET ekosisteminde temel bilgi sahibi olmak.
+- REST API geliştirme mantığını bilmek.
+- SQL ve ilişkisel veri tabanı kavramlarına hakim olmak.
+- Git ile versiyon kontrolü kullanmış olmak.
+- Nesne yönelimli programlama prensiplerini bilmek.
+- Takım çalışmasına yatkın olmak.
+- En az B1 seviyesinde İngilizce bilgisine sahip olmak.
+
+TERCİH EDİLEN NİTELİKLER
+- ASP.NET Core deneyimi.
+- Entity Framework Core bilgisi.
+- PostgreSQL veya SQL Server deneyimi.
+- Docker hakkında temel bilgi.
+
+GÖREV VE SORUMLULUKLAR
+- Backend servis geliştirme çalışmalarına destek olmak.
+- API endpoint'leri geliştirmek ve test etmek.
+- Veri tabanı işlemlerine destek vermek.
+- Kod inceleme ve hata çözme süreçlerine katılmak.

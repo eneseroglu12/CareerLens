@@ -1,0 +1,24 @@
+BUSINESS ANALYST INTERN
+Konum: İstanbul
+Çalışma Şekli: Hibrit Staj
+
+ARANAN NİTELİKLER
+- Yönetim Bilişim Sistemleri, Endüstri Mühendisliği, Bilgisayar Mühendisliği, İş Analitiği veya ilgili bir lisans programında öğrenci ya da yeni mezun olmak.
+- İş analizi ve yazılım projelerine ilgi duymak.
+- Kullanıcı veya müşteri ihtiyaçlarını anlayıp iş gereksinimlerine dönüştürebilmek.
+- Süreç modelleme ve dokümantasyon konusunda temel bilgi sahibi olmak.
+- SQL ve Microsoft Excel konusunda çalışma bilgisine sahip olmak.
+- Yazılım test süreçleri ve UAT hakkında temel bilgi sahibi olmak.
+- Takım çalışmasına yatkın ve iletişimi güçlü olmak.
+- En az B2 seviyesinde İngilizce bilgisine sahip olmak.
+
+TERCİH EDİLEN NİTELİKLER
+- Jira veya benzeri proje takip araçlarını kullanmış olmak.
+- Power BI veya benzeri bir raporlama aracına aşina olmak.
+- BPMN veya süreç haritalama deneyimine sahip olmak.
+
+GÖREV VE SORUMLULUKLAR
+- İş birimleriyle gereksinim toplantılarına katılmak.
+- User story, acceptance criteria ve fonksiyonel analiz dokümanlarına destek vermek.
+- Test senaryosu hazırlama ve UAT sürecine destek olmak.
+- Proje görevlerinin takibini yapmak.

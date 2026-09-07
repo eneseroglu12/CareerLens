@@ -1,0 +1,27 @@
+ÖRNEK CV — DEMO ADAYI
+
+Deniz Kaya
+İş Analitiği Öğrencisi
+
+ÖZET
+Veri analizi, süreç iyileştirme ve ürün kararlarını bir araya getiren rollere ilgi duyan İş Analitiği öğrencisi. Analitik problem çözme, gereksinim analizi ve iş süreçlerinin modellenmesi konularında proje ve staj deneyimine sahiptir.
+
+EĞİTİM
+İş Analitiği Lisans Programı, Örnek Üniversite, 2023–Devam ediyor.
+İlgili dersler: istatistik, veritabanı sistemleri, yöneylem araştırması ve iş süreçleri analizi.
+
+DENEYİM
+İş Analisti Stajyeri — Northwind Finans
+Haziran 2026 – Ağustos 2026
+- Operasyonel iş akışlarını dokümante etti ve paydaş ihtiyaçlarını fonksiyonel gereksinimlere dönüştürdü.
+- Bir iç operasyon uygulamasında kullanıcı kabul testlerini (UAT), test takibini ve hata kayıtlarını destekledi.
+- Verileri doğrulamak ve tutarsız kayıtları incelemek için SQL sorguları kullandı.
+
+Veri Analitiği Projesi — Perakende Talep Analizi
+- İşlem verilerini Python ve pandas ile temizledi.
+- Keşifsel görselleştirmeler ve temel bir regresyon modeli oluşturdu.
+- Bulguları ve önerileri dört kişilik proje ekibine sundu.
+- Temel Power BI görselleştirmeleri hazırladı.
+
+BECERİLER
+SQL, Python, pandas, Excel, PowerPoint, Power BI, gereksinim analizi, süreç haritalama, UAT, yazılım testi, istatistik, analitik problem çözme, İngilizce (ileri seviye).
